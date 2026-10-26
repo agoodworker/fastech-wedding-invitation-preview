@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agoodworker.github.io/fastech-wedding-invitation-preview/sitemap.xml
